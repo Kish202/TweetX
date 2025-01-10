@@ -1,4 +1,4 @@
-# **Project Name**
+# **TweetX**
 
 Welcome to **TweetX**, a sleek and responsive web application designed to provide "platform where you can express your views about trending topics (Shhhhh not a copy of X)
 
